@@ -6,7 +6,7 @@ Meu nome é Bárbara de Oliveira
 - Estou me desenvolvendo na liguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-## Você entrar em contato comigo 📫
+## Para você entrar em contato comigo 📫
 
 00001120834740sp@al.educacao.sp.gov.br 
 
